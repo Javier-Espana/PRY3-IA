@@ -1,0 +1,37 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+env/
+.env
+.venv
+ENV/
+
+# Archivos de distribución
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Logs
+*.log
+
+# Bases de datos locales
+*.db
+*.sqlite3
+
+# Cachés de pruebas
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
